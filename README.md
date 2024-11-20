@@ -109,6 +109,7 @@ The interactive **Tableau dashboard** helped visualize the key trends and predic
 ![Bitcoin_Dashboard](https://github.com/user-attachments/assets/6da64ade-0917-499b-be40-702e27d13671)  
 *Chart 5: Tableau Dashboard*  
 *The dashboard visualizes trends and compares the actual and predicted Bitcoin closing prices over time.*
+[**Bitcoin Price Analysis Dashboard (2014-2022)**](https://public.tableau.com/authoring/BitcoinPriceAnalysisDashboard2014-2022/Bitcoin_Dashboard#1)
 
 ---
 
